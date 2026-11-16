@@ -8,7 +8,7 @@ Each chapter below has a short explanation, key takeaways and code. Notes are in
 
 | Part | Ch | Title | Notes |
 |------|----|-------|-------|
-| 1 Fundamentals | 1 | Java 8, 9, 10, 11: what's happening? | todo |
+| 1 Fundamentals | 1 | Java 8, 9, 10, and 11: what's happening? | todo |
 | | 2 | Passing code with behavior parameterization | todo |
 | | 3 | Lambda expressions | todo |
 | 2 Streams | 4 | Introducing streams | todo |
@@ -36,7 +36,7 @@ Each chapter below has a short explanation, key takeaways and code. Notes are in
 
 ## Part 1: Fundamentals
 
-### Chapter 1: Java 8, 9, 10, 11: what's happening?
+### Chapter 1: Java 8, 9, 10, and 11: what's happening?
 
 **Explanation**
 - Hardware changed: CPUs got more cores instead of higher clock speeds, so programs must be concurrent to use the machine fully.
